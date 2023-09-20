@@ -21,7 +21,7 @@ ScholarSearch is built using the MERN (MongoDB, Express, React, Node.js) stack. 
 - **React**: For the frontend user interface.
 - **Node.js**: To run the server-side logic.
 
- # Demo Video:
+ ##Demo Video
 
 
 https://github.com/BasavrajD/NFC-ScholarSearch/assets/112759581/67312324-6c38-43d7-b988-ead91a2755f7
