@@ -1,7 +1,7 @@
-# ScholarSearch 2.0
+# ScholarSearch
 
 
-Welcome to ScholarSearch 2.0, the ultimate tool for students to discover scholarships for their further education. This application was developed during the "Need for Code 2.0" Hackathon, and it aims to simplify the scholarship search process for students worldwide.
+Welcome to ScholarSearch, the ultimate tool for students to discover scholarships for their further education. This application was developed during the "Need for Code 2.0" Hackathon, and it aims to simplify the scholarship search process for students worldwide.
 
 ## Features
 
