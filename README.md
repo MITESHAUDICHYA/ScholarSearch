@@ -23,8 +23,6 @@ ScholarSearch is built using the MERN (MongoDB, Express, React, Node.js) stack. 
 
   ## Demo video
 
-  "C:\Users\mites\Downloads\scholarSearch.mp4"
-
 
 ## Getting Started
 
