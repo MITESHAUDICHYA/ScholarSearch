@@ -22,11 +22,6 @@ ScholarSearch is built using the MERN (MongoDB, Express, React, Node.js) stack. 
 - **Node.js**: To run the server-side logic.
 
 
-## Demo Video
-
-[![Watch the Demo Video](link-to-your-demo-video-thumbnail.png)](link-to-your-demo-video.mp4)
-
-[Watch the Demo Video](link-to-your-demo-video.mp4)
 ## Getting Started
 
 To get started with ScholarSearch on your local machine, follow these steps:
