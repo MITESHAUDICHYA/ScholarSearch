@@ -1,5 +1,3 @@
-# ScholarSearch
-ScholarSearch: Developed during the 24-hour "Need for Code 2.0" Hackathon, ScholarSearch is a cutting-edge MERN stack application. That connects students to a curated database of scholarships, ScholarSearch helps students to find scholarships suited for them.
 # ScholarSearch 2.0
 
 ![ScholarSearch Logo](link-to-your-logo.png)
